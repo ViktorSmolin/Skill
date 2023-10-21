@@ -1,6 +1,6 @@
 # Skill
 
-Figma
+# Figma
 
 ВЁРСТКА
 html, css
